@@ -1,0 +1,39 @@
+footer {
+  height: 20%;
+  background-color: #343a40; }
+  footer p {
+    text-align: center;
+    color: white;
+    padding-top: 10px; }
+
+.container {
+  margin-top: 3%; }
+
+#poster {
+  overflow: hidden; }
+  #poster img {
+    width: 50%;
+    float: left; }
+
+#cast {
+  float: left; }
+
+#seasons {
+  float: left; }
+
+#searchList {
+  position: absolute;
+  top: 48px;
+  border: solid 1px #343a40;
+  border-top: none;
+  padding: 0;
+  width: 200px;
+  z-index: 9; }
+  #searchList li {
+    position: relative;
+    list-style: none;
+    background-color: white; }
+  #searchList li:hover {
+    background-color: #777777; }
+
+/*# sourceMappingURL=main.css.map */
