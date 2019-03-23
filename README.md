@@ -11,6 +11,10 @@ Library: jQuery<br />
 
 ### Screenshots
 
-![bitshow1](https://user-images.githubusercontent.com/25713765/34880047-79267186-f7af-11e7-886c-6982f78d934d.png)
-![bitshow2](https://user-images.githubusercontent.com/25713765/34880049-7acf924c-f7af-11e7-8e49-73952ec9f7a6.png)
+![landing page](https://user-images.githubusercontent.com/38556448/54869460-d545cd00-4d98-11e9-8520-a86412fa0734.png)
+![landing page (search)](https://user-images.githubusercontent.com/38556448/54869461-d971ea80-4d98-11e9-801b-92cb13780a3a.png)
+![landing page (search)](https://user-images.githubusercontent.com/38556448/54869462-decf3500-4d98-11e9-933d-a4ef3d55485c.png)
+
+
+
 
