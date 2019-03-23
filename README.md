@@ -13,7 +13,8 @@ Library: jQuery<br />
 
 ![landing page](https://user-images.githubusercontent.com/38556448/54869460-d545cd00-4d98-11e9-8520-a86412fa0734.png)
 ![landing page (search)](https://user-images.githubusercontent.com/38556448/54869461-d971ea80-4d98-11e9-801b-92cb13780a3a.png)
-![landing page (search)](https://user-images.githubusercontent.com/38556448/54869462-decf3500-4d98-11e9-933d-a4ef3d55485c.png)
+![show info page](https://user-images.githubusercontent.com/38556448/54869483-2bb30b80-4d99-11e9-87a9-be79049cc5ff.png)
+
 
 
 
