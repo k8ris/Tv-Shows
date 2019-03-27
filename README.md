@@ -1,7 +1,6 @@
 # Tv-Shows
-Tv Shows is web app that provides information about shows.
+Tv Shows is web app that provides information about shows.<br/>
 NOTE: Serve our client application from Live Server (VCS extension)
-
 
 ### Stack
 Languages: HTML5, JavaScript (ES6)<br />
